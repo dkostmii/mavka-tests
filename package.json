@@ -1,0 +1,23 @@
+{
+  "name": "mavka-tests",
+  "version": "1.0.0",
+  "description": "Цей репозиторій містить приклад імплементації операцій\r для тестування.",
+  "main": "index.js",
+  "scripts": {
+    "start": "мавка старт"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkostmii/mavka-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkostmii/mavka-tests/issues"
+  },
+  "homepage": "https://github.com/dkostmii/mavka-tests#readme",
+  "devDependencies": {
+    "mavka": "^0.10.5"
+  }
+}
