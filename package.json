@@ -1,7 +1,7 @@
 {
   "name": "mavka-tests",
   "version": "1.0.0",
-  "description": "Цей репозиторій містить приклад імплементації операцій\r для тестування.",
+  "description": "Тестування у Мавці",
   "main": "index.js",
   "scripts": {
     "start": "мавка старт"
