@@ -1,10 +1,9 @@
 {
   "name": "mavka-tests",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Тестування у Мавці",
-  "main": "index.js",
   "scripts": {
-    "start": "мавка старт"
+    "start": "мавка приклад"
   },
   "repository": {
     "type": "git",
