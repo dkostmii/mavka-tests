@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Тестування у Мавці",
   "scripts": {
-    "start": "мавка приклад"
+    "start": "мавка приклад.тест.м"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dkostmii/mavka-tests#readme",
   "devDependencies": {
-    "mavka": "^0.10.9"
+    "mavka": "^0.10.18"
   }
 }
